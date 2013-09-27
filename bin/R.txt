@@ -1,0 +1,7 @@
+int array com_eu_remote_test_urls 0x7f030002
+int array com_eu_remote_zxl_real_ip 0x7f030001
+int array com_eu_remote_zxl_urls 0x7f030000
+int layout com_eu_remote_activity_main 0x7f020000
+int string com_eu_remote_app_websit 0x7f040000
+int string com_eu_remote_webEntryKey 0x7f040001
+int string com_eu_remote_webServiceName 0x7f040002

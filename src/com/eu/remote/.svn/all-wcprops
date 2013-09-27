@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/android/!svn/ver/1829/ReMoteWorker/src/com/eu/remote
+END
+ObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/ObjectPool.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/MainActivity.java
+END
+PoolCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/PoolCenter.java
+END
+Data_LoginInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/Data_LoginInfo.java
+END
+ActionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/ActionMetaData.java
+END
+OldExeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/android/!svn/ver/1829/ReMoteWorker/src/com/eu/remote/OldExeClient.java
+END
+NetJobUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/android/!svn/ver/1816/ReMoteWorker/src/com/eu/remote/NetJobUtil.java
+END
+AndroidClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/android/!svn/ver/1829/ReMoteWorker/src/com/eu/remote/AndroidClient.java
+END
+ExeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/android/!svn/ver/1829/ReMoteWorker/src/com/eu/remote/ExeClient.java
+END
+Data_Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/Data_Attachment.java
+END
+OldRemoteData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/OldRemoteData.java
+END
+EasyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/EasyX509TrustManager.java
+END
+EasySSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/EasySSLSocketFactory.java
+END
+RemoteData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/RemoteData.java
+END
+JSONParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/android/!svn/ver/1639/ReMoteWorker/src/com/eu/remote/JSONParser.java
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/Algorithm.java
+END
+Data_Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/Data_Task.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/android/!svn/ver/1472/ReMoteWorker/src/com/eu/remote/ObjectFactory.java
+END

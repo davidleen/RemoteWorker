@@ -1,0 +1,45 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 22
+/svn/android/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/android/!svn/ver/1829/ReMoteWorker
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/android/!svn/ver/1611/ReMoteWorker/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/android/!svn/ver/1816/ReMoteWorker/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/android/!svn/ver/1472/ReMoteWorker/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/android/!svn/ver/1472/ReMoteWorker/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/android/!svn/ver/1816/ReMoteWorker/AndroidManifest.xml
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/android/!svn/ver/1472/ReMoteWorker/ic_launcher-web.png
+END

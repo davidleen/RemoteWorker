@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_eu_remote_app_websit">http://zxl.91yong.com</string>
+    <string name="com_eu_remote_webEntryKey">08d0fe4a-941b-11e1-ad24-00219b6a83e3</string>
+    <string name="com_eu_remote_webServiceName">/Service.nd?</string>
+</resources>

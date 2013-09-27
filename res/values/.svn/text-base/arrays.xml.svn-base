@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- web  hosts 域名 -->
+    <string-array name="com_eu_remote_zxl_urls">
+        <item>zxl.91yong.com</item>
+    </string-array>
+    <!-- web      真实ip 为备用 -->
+    <string-array name="com_eu_remote_zxl_real_ip">
+        <item>121.207.254.59</item>
+    </string-array>
+    <string-array name="com_eu_remote_test_urls">
+        <item>192.168.19.20/ehr</item>
+        <item>192.168.19.41:8000/ehr</item>
+        <item>192.168.19.42:8000/ehr</item>
+        <item>zxl.91yong.com</item>
+    </string-array>
+</resources>
