@@ -1,4 +1,6 @@
-package com.eu.remote;
+package com.eu.remote.test;
+
+import com.eu.remote.AndroidClient;
 
 import android.content.Context;
 

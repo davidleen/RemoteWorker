@@ -1,4 +1,4 @@
-package com.eu.remote;
+package com.eu.remote.test;
 
 import java.util.List;
 

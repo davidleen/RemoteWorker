@@ -28,12 +28,24 @@ public class JSONParser<T> {
 	private static final String TAG = "JSONParser";
 	private static final boolean SEE_REFLECT = true;// 是否查看日志反射失败的时倄1�7
 
-	private Class<?> dataClass;
+	private Class<?> dataClass;// 内置的泛型实际数据类。
 
 	public JSONParser(Class<?> dataClass) {
 		this.dataClass = dataClass;
 	}
 
+	public JSONParser() {
+
+	}
+
+	/**
+	 * 数据解析 将 json string 解析成 resultClass 对象
+	 * 
+	 * @param jsonString
+	 * @param resultClass
+	 * @return
+	 * @throws JSONException
+	 */
 	public T parse(String jsonString, Class<?> resultClass) throws JSONException {
 
 		JSONObject json = new JSONObject(jsonString);

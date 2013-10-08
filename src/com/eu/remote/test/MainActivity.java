@@ -1,8 +1,9 @@
-package com.eu.remote;
+package com.eu.remote.test;
 
 import android.app.Activity;
 import android.os.Bundle;
 
+import com.eu.remote.Algorithm;
 import com.example.remotedataworker.R;
 
 public class MainActivity extends Activity {

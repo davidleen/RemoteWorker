@@ -73,7 +73,7 @@ public class AndroidClient<T> {
 	}
 
 	/**
-	 * 添加动�1�7�参敄1�7 即此参数会被覆盖新�1�7�1�7 ，形成新的查询条仄1�7
+	 * 添加动态参数 相同的key 新值会替换旧值
 	 * 
 	 * @param key
 	 * @param value

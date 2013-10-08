@@ -1,8 +1,11 @@
-package com.eu.remote;
+package com.eu.remote.test;
 
 import android.content.Context;
 import android.util.Log;
 
+import com.eu.remote.Algorithm;
+import com.eu.remote.AndroidClient;
+import com.eu.remote.test.ActionMetaData.Login;
 import com.example.remotedataworker.BuildConfig;
 import com.example.remotedataworker.R;
 

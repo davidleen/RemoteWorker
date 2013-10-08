@@ -1,6 +1,8 @@
-package com.eu.remote;
+package com.eu.remote.test;
 
 import org.junit.Test;
+
+import com.eu.remote.AndroidClient;
 
 /**
  * 远程读取json 数据籄1�7 定制 action 动�1�7�添加参敄1�7 执行read;
